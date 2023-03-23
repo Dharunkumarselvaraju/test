@@ -1,3 +1,3 @@
 let a="dharunkumar"
-let age=22;
 console.log(a);
+console.log("hello world")
