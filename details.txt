@@ -1,3 +1,4 @@
 name:"dharun"
 roll:"intern"
 age:22
+salary:300000
